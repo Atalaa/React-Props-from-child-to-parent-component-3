@@ -1,3 +1,3 @@
-# React-Props-from-child-to-parent-component-3
+# Props from child to parent component 2
 
-[Edit in Codeflow ⚡️](https://stackblitz.com/~/github.com/Atalaa/React-Props-from-child-to-parent-component-3)
+## [👉 Here](https://stackblitz.com/edit/react-ts-yzpyft)
